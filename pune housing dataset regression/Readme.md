@@ -31,7 +31,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn flask
 ## Usage
 1. Clone the repository:
    bash
-   git clone https://github.com/your-repo/pune-house-price-prediction.git
+   git clone https://github.com/Tanaya-Kanim05/Machine-learning/tree/main/pune%20housing%20dataset%20regression
    cd pune-house-price-prediction
    
 2. Run the Jupyter notebook or Python script to train the model:
@@ -40,7 +40,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn flask
    
 3. Start the Flask API to serve predictions:
    bash
-   python app.py
+   pune_house_app.py
    
 4. Send a request to the API to get predictions:
    bash
@@ -58,8 +58,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn flask
 - Incorporate more real-time data for better predictions.
 
 ## Contributors
-- Your Name (your.email@example.com)
-- Additional contributors
+- Tanaya Kanim
 
 ## License
 This project is licensed under the MIT License.
